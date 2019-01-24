@@ -1,0 +1,36 @@
+https://github.com/dongtianee/jQuery-EasyUI/blob/master/src/jquery.dialog.js | jQuery-EasyUI/jquery.dialog.js at master · dongtianee/jQuery-EasyUI
+https://www.cnblogs.com/aaronjs/p/3279314.html#4043386 | jQuery源码分析系列 - 【艾伦】 - 博客园
+https://github.com/songjinzhong/JQuerySource/blob/master/01-%E6%80%BB%E4%BD%93%E6%9E%B6%E6%9E%84/README.md | JQuerySource/README.md at master · songjinzhong/JQuerySource
+
+https://github.com/yujiangshui/A-Programmers-Guide-to-English | yujiangshui/A-Programmers-Guide-to-English: 专为程序员编写的英语学习指南 v1.2。在线版本请点 ->
+http://shouce.jb51.net/velocity/index.html | Velocity.js 中文文档
+https://jkchao.github.io/typescript-book-chinese/typings/indexSignatures.html | 索引签名 | 深入理解 TypeScript
+https://zhongsp.gitbooks.io/typescript-handbook/doc/handbook/Declaration%20Merging.html | 声明合并 · TypeScript Handbook（中文版）
+https://webpack.docschina.org/concepts/ | 概念
+http://es6.ruanyifeng.com/ | ECMAScript 6 入门 - ECMAScript 6入门
+https://developer.mozilla.org/zh-CN/docs/Web/API/NodeList/keys | NodeList.keys() | MDN
+http://www.itxueyuan.org/view/6340.html | JavaScript event对象：当前事件_JavaScript编程学院_IT学院
+https://www.tslang.cn/docs/home.html | 文档简介 · TypeScript中文网 · TypeScript——JavaScript的超集
+https://www.css88.com/doc/sass/#import | Sass (3.4.21) 中文文档
+https://ts.xcatliu.com/basics/type-of-function.html | 函数的类型 · TypeScript 入门教程
+
+https://github.com/MisterBooo/LeetCodeAnimation | MisterBooo/LeetCodeAnimation: Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+
+http://w3help.org/zh-cn/kb/ | W3Help - 兼容性 - 知识库
+https://www.zhangxinxu.com/wordpress/2010/05/%E6%88%91%E5%AF%B9css-vertical-align%E7%9A%84%E4%B8%80%E4%BA%9B%E7%90%86%E8%A7%A3%E4%B8%8E%E8%AE%A4%E8%AF%86%EF%BC%88%E4%B8%80%EF%BC%89/ | 我对CSS vertical-align的一些理解与认识（一） « 张鑫旭-鑫空间-鑫生活
+https://www.ui.cn/ | UI中国-专业用户体验设计平台
+https://www.css88.com/archives/4996 | 页面重绘和回流以及优化-WEB前端开发
+
+https://learngitbranching.js.org/ | Learn Git Branching
+https://developers.google.com/web/tools/chrome-devtools/memory-problems/heap-snapshots?hl=zh-cn | 如何记录堆快照  |  Tools for Web Developers  |  Google Developers
+https://babel.bootcss.com/ | Babel · 用于编写下一代 JavaScript 的编译器 | Babel中文网
+https://packagecontrol.io/ | Package Control - the Sublime Text package manager
+http://www.jq22.com/ | jQuery插件库-收集最全最新最好的jQuery插件
+https://codepen.io/dashboard/ | CodePen Dashboard
+https://astexplorer.net/ | AST explorer
+
+https://www.zcfy.cc/article/css-vs-js-animation-which-is-faster | CSS vs. JS Animation: 哪个更快? - 众成翻译
+https://www.zcfy.cc/@SEkin/favorite | SEkin收藏的文章 - 众成翻译
+https://www.npmjs.com/~s-ekin#packages | npm
+http://microsoft.github.io/TypeSearch/ | TypeScript Types Search
+https://www.ctolib.com/categories/javascript-css.html | CSS相关 - JavaScript开发社区 | CTOLib码库
