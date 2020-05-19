@@ -1,7 +1,14 @@
+https://github.com/ant-design/ant-design/blob/master/components/modal/Modal.tsx | ant-design/Modal.tsx at master · ant-design/ant-design
+https://zhangzewei.gitbooks.io/read-antd-code/content/story/components/button.html | Button组件 · 蚂蚁金服antd源码解读
 https://github.com/dongtianee/jQuery-EasyUI/blob/master/src/jquery.dialog.js | jQuery-EasyUI/jquery.dialog.js at master · dongtianee/jQuery-EasyUI
 https://www.cnblogs.com/aaronjs/p/3279314.html#4043386 | jQuery源码分析系列 - 【艾伦】 - 博客园
 https://github.com/songjinzhong/JQuerySource/blob/master/01-%E6%80%BB%E4%BD%93%E6%9E%B6%E6%9E%84/README.md | JQuerySource/README.md at master · songjinzhong/JQuerySource
 
+https://vimjc.com/ | vim教程网
+https://juejin.im/post/5cd6387d518825682348442d?utm_source=gold_browser_extension | TypeScript - 一种思维方式 - 掘金
+https://devdocs.io/ | DevDocs API Documentation
+https://devhints.io/ | Devhints — TL;DR for developer documentation
+https://www.sass.hk/docs/ | Sass教程 Sass中文文档 | Sass中文网
 https://cn.mobx.js.org/ | 1. MobX 介绍 · MobX 中文文档
 http://mockjs.com/examples.html | Mock.js
 https://yq.aliyun.com/articles/69516 | immutable.js 在React、Redux中的实践以及常用API简介-云栖社区-阿里云
@@ -24,28 +31,53 @@ https://www.tslang.cn/docs/home.html | 文档简介 · TypeScript中文网 · Ty
 https://www.css88.com/doc/sass/#import | Sass (3.4.21) 中文文档
 https://ts.xcatliu.com/basics/type-of-function.html | 函数的类型 · TypeScript 入门教程
 
+https://juejin.im/post/5835853f570c35005e413b19 | 三张图搞懂JavaScript的原型对象与原型链 - 掘金
+https://juejin.im/post/5bcdb6c6f265da0afd4b75c0 | JavaScript 原型精髓 #一篇就够系列 - 掘金
+https://juejin.im/post/58f94c9bb123db411953691b | JS原型链与继承别再被问倒了 - 掘金
+https://juejin.im/post/5cffb431f265da1b7401f466?utm_source=gold_browser_extension | TypeScript 高级技巧 - 掘金
+https://juejin.im/post/5cec1bcff265da1b8f1aa08f?utm_source=gold_browser_extension | 【JS 进阶】你真的掌握变量和类型了吗 - 掘金
+https://juejin.im/post/5d00e2ed51882520724c9094?utm_source=gold_browser_extension | React中的Component 和 PureComponent - 掘金
+https://juejin.im/post/5cfe29eae51d45105e021298?utm_source=gold_browser_extension | 用 TypeScript + GraphQL 开发一个SpaceX火箭发射数据查询系统🚀 - 掘金
+https://juejin.im/post/5cfdc1fb518825361d02aa41?utm_source=gold_browser_extension | [译] JavaScript 线性代数：线性变换与矩阵 - 掘金
+
+https://stackoverflow.com/questions/41454457/velocity-first-argument-was-not-a-property-map | javascript - Velocity: First Argument was not a property map - Stack Overflow
+https://juejin.im/post/5cf7042df265da1ba647d9d1?utm_source=gold_browser_extension | 如何在 JS 循环中正确使用 async 与 await - 掘金
+
 https://github.com/imhuay/Algorithm_Interview_Notes-Chinese | imhuay/Algorithm_Interview_Notes-Chinese: 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
 https://github.com/MisterBooo/LeetCodeAnimation | MisterBooo/LeetCodeAnimation: Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 
+https://freefrontend.com/css-radio-buttons/ | 66 Radio Buttons CSS
+https://www.html5tricks.com/tag/css3%E6%8C%89%E9%92%AE/page/2 | CSS3按钮 | HTML5资源教程 | 第2页
+https://www.zhangxinxu.com/wordpress/tag/%E6%8C%89%E9%92%AE/ | 按钮 « 张鑫旭-鑫空间-鑫生活
+https://www.zcool.com.cn/work/ZMzAyNjcyMjQ=.html?tdsourcetag=s_pcqq_aiomsg | B端产品-QuickBI体验设计|UI|软件界面|三鱼先生 - 原创作品 - 站酷 (ZCOOL)
+https://i.ui.cn/ucenter/1285388.html?act=fav | 我 的收藏 -UI中国-专业界面交互设计平台
 http://www.runoob.com/css3/css3-tutorial.html | CSS3 教程 | 菜鸟教程
 http://w3help.org/zh-cn/kb/ | W3Help - 兼容性 - 知识库
 https://www.zhangxinxu.com/wordpress/2010/05/%E6%88%91%E5%AF%B9css-vertical-align%E7%9A%84%E4%B8%80%E4%BA%9B%E7%90%86%E8%A7%A3%E4%B8%8E%E8%AE%A4%E8%AF%86%EF%BC%88%E4%B8%80%EF%BC%89/ | 我对CSS vertical-align的一些理解与认识（一） « 张鑫旭-鑫空间-鑫生活
 https://www.ui.cn/ | UI中国-专业用户体验设计平台
 https://www.css88.com/archives/4996 | 页面重绘和回流以及优化-WEB前端开发
 
+https://www.openvim.com/tutorial.html | Interactive Vim tutorial
+https://explainshell.com/# | explainshell.com - match command-line arguments to their help text
 https://npm.runkit.com/bundle-loader?t=1554273943257 | RunKit + npm: bundle-loader
 https://webpack.jakoblind.no/ | Webpack config tool
 https://learngitbranching.js.org/ | Learn Git Branching
-https://developers.google.com/web/tools/chrome-devtools/memory-problems/heap-snapshots?hl=zh-cn | 如何记录堆快照  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/memory-problems/heap-snapshots?hl=zh-cn | 如何记录堆快照  |  Tools for Web Developers  |  Google Developers
 https://babel.bootcss.com/ | Babel · 用于编写下一代 JavaScript 的编译器 | Babel中文网
 https://packagecontrol.io/ | Package Control - the Sublime Text package manager
 http://www.jq22.com/ | jQuery插件库-收集最全最新最好的jQuery插件
 https://codepen.io/dashboard/ | CodePen Dashboard
 https://astexplorer.net/ | AST explorer
 
+https://juejin.im/post/5b89e47f51882542c062651f | 一次TypeScript, React, Node, MongoDB的模板式前后端分离开发实践 - 掘金
+https://www.sucaihuo.com/member/info.html | 我的主页
+https://reactjsexample.com/tag/select/ | Select - React.js Examples
+https://toutiao.io/posts/hot/7 | 最近7天热门分享 - 开发者头条
+https://github.com/react-component | react-component
+http://www.10tiao.com/html/245/201512/401292478/1.html | PostCSS深入学习: 压缩和优化CSS - W3cplus | 十条
+https://s-ekin.github.io/svg-essentials-examples/ | SVG Essentials Examples
 http://react-china.org/c/projects | 分享项目的最新主题 - React 中文
 https://codesandbox.io/explore | Explore Sandboxes - CodeSandbox
-http://oreillymedia.github.io/svg-essentials-examples/ | SVG Essentials Examples
 https://codepen.io/ | CodePen
 http://www.hiwebgl.com/ | HiWebGL | 最好的HTML5 WebGL中文资讯站！
 https://huke88.com/illustration/15-1328-0-0-0-2-1-16-1/?sem=baidu&kw=105773 | 绘画插画视频教程-虎课网
