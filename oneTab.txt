@@ -43,9 +43,19 @@ https://juejin.im/post/5cfdc1fb518825361d02aa41?utm_source=gold_browser_extensio
 https://stackoverflow.com/questions/41454457/velocity-first-argument-was-not-a-property-map | javascript - Velocity: First Argument was not a property map - Stack Overflow
 https://juejin.im/post/5cf7042df265da1ba647d9d1?utm_source=gold_browser_extension | 如何在 JS 循环中正确使用 async 与 await - 掘金
 
-https://github.com/imhuay/Algorithm_Interview_Notes-Chinese | imhuay/Algorithm_Interview_Notes-Chinese: 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记
+https://github.com/jaywcjlove/github-rank | jaywcjlove/github-rank: 🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(自动日更)。
+https://github.com/wangzheng0822/algo | wangzheng0822/algo: 数据结构和算法必知必会的50个代码实现
+https://github.com/nicejade/Front-end-tutorial | nicejade/Front-end-tutorial: 最全的资源教程-前端涉及的所有知识体系，并在 Nice Front-end Tutorial 持续更新；
+https://github.com/iamshuaidi/algo-basic | iamshuaidi/algo-basic: 专注于分享算法，计算机基础（包括计算机网络，操作系统，MySQL等），无论是应付面试，还是提升自己地内功，这里都能帮到你
+https://github.com/nieweidong/fetool#node_read | nieweidong/fetool: 大前端的瑞士军刀，只记录有用的。
+https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md | coding-interview-university/README-cn.md at master · jwasham/coding-interview-university
+https://github.com/imhuay/Algorithm_for_Interview-Chinese | imhuay/Algorithm_for_Interview-Chinese: Algorithm for Interview（面试算法笔记-中文）
 https://github.com/MisterBooo/LeetCodeAnimation | MisterBooo/LeetCodeAnimation: Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 
+https://juejin.im/post/5ea8c37fe51d454dc55c8de7 | 你可能还不知的 7 个 CSS 好用的属性 - 掘金
+https://juejin.im/post/5e070cd9f265da33f8653f00 | 我写CSS的常用套路 - 掘金
+https://juejin.im/post/5d4d0ec651882549594e7293 | 灵活运用CSS开发技巧 - 掘金
+https://juejin.im/post/5d3eca78e51d4561cb5dde12 | 你未必知道的49个CSS知识点 - 掘金
 https://freefrontend.com/css-radio-buttons/ | 66 Radio Buttons CSS
 https://www.html5tricks.com/tag/css3%E6%8C%89%E9%92%AE/page/2 | CSS3按钮 | HTML5资源教程 | 第2页
 https://www.zhangxinxu.com/wordpress/tag/%E6%8C%89%E9%92%AE/ | 按钮 « 张鑫旭-鑫空间-鑫生活
