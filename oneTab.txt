@@ -4,6 +4,9 @@ https://github.com/dongtianee/jQuery-EasyUI/blob/master/src/jquery.dialog.js | j
 https://www.cnblogs.com/aaronjs/p/3279314.html#4043386 | jQuery源码分析系列 - 【艾伦】 - 博客园
 https://github.com/songjinzhong/JQuerySource/blob/master/01-%E6%80%BB%E4%BD%93%E6%9E%B6%E6%9E%84/README.md | JQuerySource/README.md at master · songjinzhong/JQuerySource
 
+https://www.yuque.com/dashboard/collections | My collections · 语雀
+https://docs.github.com/cn/github/collaborating-with-issues-and-pull-requests/closing-a-pull-request | 关闭拉取请求 - GitHub Docs
+https://www.zcfy.cc/ | 翻译，从此起步 - 众成翻译
 https://webpack.wuhaolin.cn/5%E5%8E%9F%E7%90%86/5-1%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86%E6%A6%82%E6%8B%AC.html | 5-1 工作原理概括 · 深入浅出 Webpack
 https://git-scm.com/book/zh/v2 | Git - Book
 https://vimjc.com/ | vim教程网
@@ -45,7 +48,9 @@ https://juejin.im/post/5cfdc1fb518825361d02aa41?utm_source=gold_browser_extensio
 https://stackoverflow.com/questions/41454457/velocity-first-argument-was-not-a-property-map | javascript - Velocity: First Argument was not a property map - Stack Overflow
 https://juejin.im/post/5cf7042df265da1ba647d9d1?utm_source=gold_browser_extension | 如何在 JS 循环中正确使用 async 与 await - 掘金
 
+https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh | tuteng/Best-websites-a-programmer-should-visit-zh: 程序员应该访问的最佳网站中文版
 https://light-city.club/sc/use/ | 使用须知 - C++那些事
+https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md | system-design-primer/README-zh-Hans.md at master · donnemartin/system-design-primer
 https://github.com/jaywcjlove/github-rank | jaywcjlove/github-rank: 🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(自动日更)。
 https://github.com/wangzheng0822/algo | wangzheng0822/algo: 数据结构和算法必知必会的50个代码实现
 https://github.com/nicejade/Front-end-tutorial | nicejade/Front-end-tutorial: 最全的资源教程-前端涉及的所有知识体系，并在 Nice Front-end Tutorial 持续更新；
@@ -82,6 +87,7 @@ http://www.jq22.com/ | jQuery插件库-收集最全最新最好的jQuery插件
 https://codepen.io/dashboard/ | CodePen Dashboard
 https://astexplorer.net/ | AST explorer
 
+https://forum.vuejs.org/ | Vue Forum
 https://juejin.im/post/5b89e47f51882542c062651f | 一次TypeScript, React, Node, MongoDB的模板式前后端分离开发实践 - 掘金
 https://www.sucaihuo.com/member/info.html | 我的主页
 https://reactjsexample.com/tag/select/ | Select - React.js Examples
