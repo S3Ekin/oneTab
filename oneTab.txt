@@ -49,6 +49,8 @@ https://stackoverflow.com/questions/41454457/velocity-first-argument-was-not-a-p
 https://juejin.im/post/5cf7042df265da1ba647d9d1?utm_source=gold_browser_extension | 如何在 JS 循环中正确使用 async 与 await - 掘金
 
 https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh | tuteng/Best-websites-a-programmer-should-visit-zh: 程序员应该访问的最佳网站中文版
+https://github.com/grandyang/leetcode/blob/master/README-CN.md | leetcode/README-CN.md at master · grandyang/leetcode
+https://labuladong.gitbook.io/algo/di-ling-zhang-bi-du-xi-lie | 第零章、必读系列 - labuladong的算法小抄
 https://light-city.club/sc/use/ | 使用须知 - C++那些事
 https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md | system-design-primer/README-zh-Hans.md at master · donnemartin/system-design-primer
 https://github.com/jaywcjlove/github-rank | jaywcjlove/github-rank: 🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(自动日更)。
