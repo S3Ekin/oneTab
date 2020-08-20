@@ -5,6 +5,7 @@ https://www.cnblogs.com/aaronjs/p/3279314.html#4043386 | jQuery源码分析系�
 https://github.com/songjinzhong/JQuerySource/blob/master/01-%E6%80%BB%E4%BD%93%E6%9E%B6%E6%9E%84/README.md | JQuerySource/README.md at master · songjinzhong/JQuerySource
 
 https://www.yuque.com/dashboard/collections | My collections · 语雀
+https://github.com/youyudehexie/node123 | youyudehexie/node123: node.js中文资料导航
 https://docs.github.com/cn/github/collaborating-with-issues-and-pull-requests/closing-a-pull-request | 关闭拉取请求 - GitHub Docs
 https://www.zcfy.cc/ | 翻译，从此起步 - 众成翻译
 https://webpack.wuhaolin.cn/5%E5%8E%9F%E7%90%86/5-1%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86%E6%A6%82%E6%8B%AC.html | 5-1 工作原理概括 · 深入浅出 Webpack
@@ -49,6 +50,12 @@ https://stackoverflow.com/questions/41454457/velocity-first-argument-was-not-a-p
 https://juejin.im/post/5cf7042df265da1ba647d9d1?utm_source=gold_browser_extension | 如何在 JS 循环中正确使用 async 与 await - 掘金
 
 https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh | tuteng/Best-websites-a-programmer-should-visit-zh: 程序员应该访问的最佳网站中文版
+https://juejin.im/post/5cf7042df265da1ba647d9d1?utm_source=gold_browser_extension | 如何在 JS 循环中正确使用 async 与 await - 掘金
+
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md | free-programming-books/free-programming-books-zh.md at master · EbookFoundation/free-programming-books
+https://github.com/h5bp/Front-end-Developer-Interview-Questions | h5bp/Front-end-Developer-Interview-Questions: A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
+https://github.com/justjavac/free-programming-books-zh_CN | justjavac/free-programming-books-zh_CN: 免费的计算机编程类中文书籍，欢迎投稿
+https://github.com/qiu-deqing/FE-learning | qiu-deqing/FE-learning: 结合个人经历总结的前端入门方法
 https://github.com/grandyang/leetcode/blob/master/README-CN.md | leetcode/README-CN.md at master · grandyang/leetcode
 https://labuladong.gitbook.io/algo/di-ling-zhang-bi-du-xi-lie | 第零章、必读系列 - labuladong的算法小抄
 https://light-city.club/sc/use/ | 使用须知 - C++那些事
