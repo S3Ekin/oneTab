@@ -4,6 +4,7 @@ https://github.com/dongtianee/jQuery-EasyUI/blob/master/src/jquery.dialog.js | j
 https://www.cnblogs.com/aaronjs/p/3279314.html#4043386 | jQuery源码分析系列 - 【艾伦】 - 博客园
 https://github.com/songjinzhong/JQuerySource/blob/master/01-%E6%80%BB%E4%BD%93%E6%9E%B6%E6%9E%84/README.md | JQuerySource/README.md at master · songjinzhong/JQuerySource
 
+https://refactoring.guru/design-patterns/typescript | Design Patterns in TypeScript
 http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/ch01.html#_%E5%90%88%E5%B9%B6%E5%86%B2%E7%AA%81 | Git Magic - 第 1 章 入门
 https://cn.history.js.org/part-1.html | 语言诞生 | jshistory-cnhttps://cn.history.js.org/part-1.html | 语言诞生 | jshistory-cn
 https://www.yuque.com/dashboard/collections | My collections · 语雀
@@ -54,6 +55,8 @@ https://juejin.im/post/5cf7042df265da1ba647d9d1?utm_source=gold_browser_extensio
 https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh | tuteng/Best-websites-a-programmer-should-visit-zh: 程序员应该访问的最佳网站中文版
 https://juejin.im/post/5cf7042df265da1ba647d9d1?utm_source=gold_browser_extension | 如何在 JS 循环中正确使用 async 与 await - 掘金
 
+
+https://github.com/geekxh/hello-algorithm?utm_source=gold_browser_extension | geekxh/hello-algorithm: 🌍 东半球最酷的学习项目 | 1、我写的三十万字算法图解 2、千本开源电子书 3、100 张思维导图 4、100 篇大厂面经 5、30 个学习专题 🚀 🚀 🚀 右上角点个 star，加入我们万人学习群！English Supported！
 https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md | free-programming-books/free-programming-books-zh.md at master · EbookFoundation/free-programming-books
 https://github.com/h5bp/Front-end-Developer-Interview-Questions | h5bp/Front-end-Developer-Interview-Questions: A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 https://github.com/justjavac/free-programming-books-zh_CN | justjavac/free-programming-books-zh_CN: 免费的计算机编程类中文书籍，欢迎投稿
